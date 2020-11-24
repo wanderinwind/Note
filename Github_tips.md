@@ -9,7 +9,8 @@
 - git merge (branch)
 - git diff source_branch target_branch
 - git add <filename> (local file priority)
+- git reset --heard (origin/main)
 ## git : work,index, head
 - edit happens in "work"
-- git add */<filename>  (add file to)
+- git add */<filename>  (add file to "index")
 - git 
