@@ -1,4 +1,5 @@
 # Github tips
+## github repo
 - git remote add origin git@github.com:name/repo
 - git clone repo
 - git checkout branch
@@ -7,5 +8,7 @@
 - git fetch (branch)
 - git merge (branch)
 - git diff source_branch target_branch
-## git 版本管理, work,index, head
-- git
+## git : work,index, head
+- edit happens in "work"
+- hit add */<filename>  : 
+- 
