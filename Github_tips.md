@@ -8,8 +8,8 @@
 - git fetch (branch)
 - git merge (branch)
 - git diff source_branch target_branch
-- git add <filename> (local file )
+- git add <filename> (local file priority)
 ## git : work,index, head
 - edit happens in "work"
-- git add */<filename>  
+- git add */<filename>  (add file to)
 - git 
