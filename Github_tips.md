@@ -10,5 +10,5 @@
 - git diff source_branch target_branch
 ## git : work,index, head
 - edit happens in "work"
-- hit add */<filename>  : 
-- 
+- git add */<filename>  
+- git 
