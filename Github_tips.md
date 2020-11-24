@@ -14,4 +14,5 @@
 ## git : work,index, head
 - edit happens in "work"
 - git add */<filename>  (add file to "index")
-- git 
+- git commit -m "info" (to head)
+- git checkout -- <filenam>
