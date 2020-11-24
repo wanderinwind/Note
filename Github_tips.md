@@ -15,4 +15,4 @@
 - edit happens in "work"
 - git add */<filename>  (add file to "index")
 - git commit -m "info" (to head)
-- git checkout -- <filenam>
+- git checkout -- <filename> (replaced by head)
