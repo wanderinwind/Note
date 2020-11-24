@@ -3,4 +3,5 @@
 - git clone repo
 - git checkout branch
 - git push (origin main)(if checkouted, noneed)
+- git pull (origin main)(if)
 - 
