@@ -6,4 +6,6 @@
 - git pull (origin main)(if)
 - git fetch (branch)
 - git merge (branch)
-- git diff source_branch target_brach
+- git diff source_branch target_branch
+## git 版本管理, work,index, head
+- git
