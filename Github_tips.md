@@ -4,4 +4,6 @@
 - git checkout branch
 - git push (origin main)(if checkouted, noneed)
 - git pull (origin main)(if)
-- 
+- git fetch (branch)
+- git merge (branch)
+- git diff source_branch target_brach
